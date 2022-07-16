@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Simple Timesheets Private Policy Url
 
-You can use the [editor on GitHub](https://github.com/Tyler-Marsh/PrivateUrlPolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Scope-Software created Simple Timesheets, which provides functionality to track working/volunteering hours.
 
-```markdown
-Syntax highlighted code block
+This page is used to inform app users  regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the SimpleTimesheets app.
 
-# Header 1
-## Header 2
-### Header 3
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  The app doesn't collect personal data, but it is allowed to create, edit, and remove files within the allowed directories. Users may also choose to download timesheets reports to a directory of their choice.
+Our Privacy Policy was created with the help of the [Private Policy Template Generator]("https://www.privacypolicytemplate.net/)
 
-- Bulleted
-- List
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at none, unless otherwise defined in this Privacy Policy.
+## Contact Us 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tyler-Marsh/PrivateUrlPolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us
